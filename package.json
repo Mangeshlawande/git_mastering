@@ -1,0 +1,20 @@
+{
+  "name": "mastering_git",
+  "version": "1.0.0",
+  "description": "yaml file ",
+  "main": "script.js",
+  "scripts": {
+    "test": "node test.js",
+    "start":"node  script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mangeshlawande/git_mastering.git"
+  },
+  "author": "mangesh lawande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mangeshlawande/git_mastering/issues"
+  },
+  "homepage": "https://github.com/Mangeshlawande/git_mastering#readme"
+}

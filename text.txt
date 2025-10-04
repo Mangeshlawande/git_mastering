@@ -1,0 +1,4 @@
+Q. Rollback prev state / discard them of a file
+A. git checkout -- <file_name>  
+   git restore <file_name>  (new command)   
+git checkout -f main
